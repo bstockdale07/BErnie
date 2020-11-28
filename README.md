@@ -1,2 +1,2 @@
-# BErnie
-Created with CodeSandbox
+# project-example
+Example game project page
